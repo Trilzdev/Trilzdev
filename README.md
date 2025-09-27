@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful solutions 
 
 ## 📫 Connect with me
 - Email: ifeoluwaoladejitosin@gmail.com
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/oladeji-ifeoluwa-a57795297/))
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/oladeji-ifeoluwa-a57795297])
 - Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
